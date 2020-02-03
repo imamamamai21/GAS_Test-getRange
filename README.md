@@ -1,5 +1,5 @@
 # 「GASでスプシの行をスマートに指定する方法」サンプル用コード
-[Qiita]()にて書いた記事のサンプルコードです。
+[Qiita](https://qiita.com/ikemai/items/aea6ab493f38f2a83c2f)にて書いた記事のサンプルコードです。
 
 ## はじめに
 GAS(google Action Script)はとても便利ですね。
